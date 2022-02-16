@@ -1,0 +1,9 @@
+{
+	"name": "adf-learning-ci-cd",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f6963638-d28b-4049-b8c2-6b1da78480a2",
+		"tenantId": "c305303f-cc03-490b-bf9b-a99fdabe75a6"
+	}
+}
