@@ -1,0 +1,23 @@
+{
+	"name": "pipeline1",
+	"properties": {
+		"activities": [
+			{
+				"name": "Set variable1",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "naosei",
+					"value": "nem_eu_sei"
+				}
+			}
+		],
+		"variables": {
+			"naosei": {
+				"type": "String"
+			}
+		},
+		"annotations": []
+	}
+}
